@@ -1,4 +1,4 @@
-Sinatra was designed and developed by Blake Mizerany in California.
+Sinatra was designed and developed by Chris Truong in COdecore.
 
 ### Current Team
 
